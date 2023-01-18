@@ -3,11 +3,10 @@ html {
     background-color: white;
 }
 body {
-    border: 2px solid black;
+    border: none;
     padding: 20px;
     background-color: rgb(166, 218, 224);
-    width: 600px;
-    margin: 10px;
+    background-size: cover;
 
 }
 
@@ -17,7 +16,7 @@ body {
     text-shadow: 3px 3px 3px black;
     text-align: center;
     padding: 1px;
-    color: #fc07fc;
+    color: #0737af;
 
 
 }
